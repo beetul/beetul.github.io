@@ -2,7 +2,7 @@ import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://beetul.github.io/",
+  site: "https://biancatuliaophoto.com",
   devToolbar: {
     enabled: false,
   },
