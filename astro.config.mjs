@@ -3,7 +3,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   site: "https://beetul.github.io/",
-  base: "/beetul.github.io",
   devToolbar: {
     enabled: false,
   },
